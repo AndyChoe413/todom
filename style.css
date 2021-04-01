@@ -1,3 +1,26 @@
+body {
+  background-image: url("https://i.pinimg.com/originals/f3/5e/48/f35e48e008d5c394be5e152795760b00.jpg");
+  font-size: 25px;
+}
+
+h1,
+li,
+ol,
+label {
+  color: white;
+}
+
 .complete {
   text-decoration: line-through;
+}
+
+.dark-mode-btn {
+  background-color: black;
+  color: white;
+  padding: 15px;
+  font-size: 20px;
+}
+
+.dark-mode {
+  background-image: url('https://i.pinimg.com/736x/a0/fd/17/a0fd171c6aa07b4b2137446fda111fdd.jpg');
 }
